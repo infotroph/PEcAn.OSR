@@ -1,0 +1,8 @@
+language: r
+
+r:
+	- release
+	- oldrel
+	- devel
+
+cache: packages
