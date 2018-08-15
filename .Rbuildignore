@@ -1,2 +1,3 @@
 ^codecov\.yml$
 ^CONDUCT\.md$
+^.travis\.yml$
