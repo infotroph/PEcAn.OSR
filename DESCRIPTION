@@ -1,0 +1,20 @@
+Package: PEcAn.OSR
+Type: Package
+Title: Interface between PEcAn and OpenSimRoot
+Version: 0.0.0.9000
+Authors@R: person("Chris", "Black", email = "ckb23@psu.edu", role = c("aut", "cre"))
+Description: This package provides functions that allow the Predictive Ecosystem Carbon Analyzer (PEcAn)
+    to control the structural-functional plant root growth model OpenSimRoot.
+Imports:
+    simrootR,
+    XML
+Suggests:
+	lintr,
+    testthat (>= 2.0.0)
+Remotes: 
+    gitlab::LynchLab/simrootR
+License: GPL-3 + file LICENSE
+LazyData: FALSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.0
