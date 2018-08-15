@@ -1,5 +1,8 @@
 # PEcAn.OSR: Interface between PEcAn and OpenSimRoot
 
+[![Build Status](https://travis-ci.org/infotroph/PEcAn.OSR.svg?branch=latest)](https://travis-ci.org/infotroph/PEcAn.OSR)
+
+[![Coverage status](https://codecov.io/gh/infotroph/PEcAn.OSR/branch/master/graph/badge.svg)](https://codecov.io/github/infotroph/PEcAn.OSR?branch=master)
 
 This is an add-on package for PEcAn, the Predictive Ecosystem Analyzer, that allows it to set up, run, and collect results from the structural-functional plant root growth model OpenSimRoot.
 
