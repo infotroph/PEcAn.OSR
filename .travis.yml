@@ -11,6 +11,7 @@ cache: packages
 r_github_packages:
   - r-lib/devtools # CRAN version doesn't handle gitlab URLs yet
   - r-lib/covr
+  - r-lib/sessioninfo # Travis needs this for session_info when using newer devtools
   - jimhester/lintr
 
 after_success:
