@@ -12,8 +12,8 @@ Suggests:
 	covr,
 	lintr,
     testthat (>= 2.0.0)
-Remotes: 
-    gitlab::LynchLab/simrootR
+Remotes:
+	url::https://gitlab.com/LynchLab/simrootR/-/archive/latest/simrootR-latest.tar.gz
 License: GPL-3 + file LICENSE
 LazyData: FALSE
 Encoding: UTF-8
