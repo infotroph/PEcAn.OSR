@@ -9,6 +9,7 @@ r:
 cache: packages
 
 r_github_packages:
+  - r-lib/devtools # CRAN version doesn't handle gitlab URLs yet
   - r-lib/covr
   - jimhester/lintr
 
