@@ -5,7 +5,7 @@
 #'  then writes the result to a single set of configuration files for one
 #'  invocation of OpenSimRoot, e.g. one ensemble member.
 #'  Since most model runs involve multiple ensemble members, `write.config.OSR`
-#'  will usually be called by [PEcAn.uncertainty::write.ensemble.configs()]
+#'  will usually be called by `PEcAn.uncertainty::write.ensemble.configs`
 #'  rather than invoked directly by the user.
 #'
 #' @param defaults list of PFTs to be simulated.
